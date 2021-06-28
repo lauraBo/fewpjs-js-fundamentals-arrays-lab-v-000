@@ -1,6 +1,10 @@
 // Write your solution here!
 
 
-append "odie"
+const append = []
 
-prepend 
+const prepend 
+
+const removeLast()
+
+const removeFirst()
